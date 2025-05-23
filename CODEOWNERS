@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @softveda
+/src/backend/database.py      @softveda
+/src/backend/routers/auth.py  @softveda
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @softveda
